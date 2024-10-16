@@ -4,14 +4,7 @@
 
 ![Messenger Clone - A Real-Time Messaging App using Next.js 14.](/.github/images/img_main.png "Messenger Clone - A Real-Time Messaging App using Next.js 14.")
 
-[![Ask Me Anything!](https://flat.badgen.net/static/Ask%20me/anything?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy "Ask Me Anything!")
-[![GitHub license](https://flat.badgen.net/github/license/sanidhyy/messenger-clone?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/messenger-clone/blob/main/LICENSE "GitHub license")
-[![Maintenance](https://flat.badgen.net/static/Maintained/yes?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/messenger-clone/commits/main "Maintenance")
-[![GitHub branches](https://flat.badgen.net/github/branches/sanidhyy/messenger-clone?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/messenger-clone/branches "GitHub branches")
-[![Github commits](https://flat.badgen.net/github/commits/sanidhyy/messenger-clone?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/messenger-clone/commits "Github commits")
-[![Vercel status](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://appmessenger.vercel.app/ "Vercel status")
-[![GitHub issues](https://flat.badgen.net/github/issues/sanidhyy/messenger-clone?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/messenger-clone/issues "GitHub issues")
-[![GitHub pull requests](https://flat.badgen.net/github/prs/sanidhyy/messenger-clone?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/messenger-clone/pulls "GitHub pull requests")
+
 
 <!-- Table of Contents -->
 <details>
